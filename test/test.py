@@ -1,3 +1,4 @@
-# Nur ein Test
-# Test2
-# Test 3
+message = "Test"
+print(message)
+message = "Test2"
+print(message)
